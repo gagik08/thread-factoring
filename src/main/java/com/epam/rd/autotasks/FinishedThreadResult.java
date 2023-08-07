@@ -2,7 +2,7 @@ package com.epam.rd.autotasks;
 
 import java.time.LocalDateTime;
 
-public class FinishedThreadResult {
+public class FinishedThreadResult{
     private final String threadName;
     private final LocalDateTime finished;
     private final Throwable throwable;
